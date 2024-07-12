@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AGB556
 - 👀 I’m interested in robotics, engineering, 3D printers, all that fun stuff. Love to tinker with things
-- 🌱 I’m currently learning physics in school, but working on different CAD designs in Onshape for my own self designed 3D printer
+- 🌱 learning blender
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me - gotta know me irl 
 
